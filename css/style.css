@@ -18,6 +18,7 @@ body{
     font-family: 'Roboto', sans-serif;
 }
 .container{
+    width: 800px;
     display: flex;
     padding: 40px;
     align-items: center;
@@ -62,6 +63,7 @@ input::-webkit-inner-spin-button,input::-webkit-outer-spin-button{
     padding: 40px 90px;
     font-size: 50px;
     border-radius: 15px;
+    color: transparent;
 }
 
 .success{
